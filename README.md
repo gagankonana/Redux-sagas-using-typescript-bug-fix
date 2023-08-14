@@ -1,4 +1,4 @@
 # Redux-sagas-using-typescript-bug-fix
-make change in readme file
+1. Step 1 : Install react app with typescript template
 
 
